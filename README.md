@@ -1,6 +1,6 @@
 # Pramod Savadatti
 
-![Profile Banner](banner-image-url)
+
 
 **Driven Software Developer | Full-Stack Specialist | Embedded Systems Engineer**
 
